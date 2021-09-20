@@ -1,0 +1,22 @@
+{
+  "fr": {
+    "description": "Bienvenue sur mon portfolio !</br>Vous trouverez ici mon CV, mes compétences informatique et professionnelles, et les différents projets informatique que j'ai mené.",
+    "about": ["A propos de moi", "Je suis étudiant en informatique à Nancy. Après une licence, je suis maintenant en master informatique, avec pour but de me spécialiser dans le développement logiciel. Vous trouverez ici mon CV, mes compétences informatique et professionnelles, et les différents projets informatique que j'ai mené."],
+    "opportunities": ["Opportunités professionnelles", "<p>Je suis actuellement ouvert à toute opportunité, CDD ou contrat freelance, pour mai à août 2022, dans tout domaine informatique, et toute localisation.</p><p>Contactez moi à clement.colne[at]outlook.com ou par mon <a href='https://www.linkedin.com/in/clementcolne/' target='_blank'>Linkedin</a>.</p>"],
+    "skills": "Compétences",
+    "education": ["Diplômes", "Master Informatique (2020-2022)", "Licence informatique (2017-2020)", "Baccalauréat Economique et Sociologique (2013-2016)"],
+    "cv": ["Télécharger mon CV", "Cliquer sur le CV pour zoomer."],
+    "interests": ["Centres d'intérêt", "Marchés Financiers", "Coder des projets intéressants et utiles", "Le café"],
+    "projects": ["Projets personnels et scolaires", "Ci-dessous la liste des projets que j'ai développé. Les codes sources sont disponibles sur mon Github."]
+  },
+  "en": {
+    "description": "Hey ! Welcome to my portfolio !</br>Tou can find here my resume, my programming and professionnal skills, and the programming projects I have done.",
+    "about": ["About me", "I am a computer science student in Nancy, France. After a bachelor degree, I'm currently studying in software ingeneering master degree. You can find here my resume, my programming and professionnal skills, and the programming projects I have done."],
+    "opportunities": ["Business opportunities", "<p>I am currently open to any opportunity in software ingeneering : temporary position or freelance, at any location.</p><p>Contact me at clement.colne[at]outlook.com or via my <a href='https://www.linkedin.com/in/clementcolne/' target='_blank'>Linkedin</a>.</p>"],
+    "skills": "Skills",
+    "education": ["Education", "Computer Science Master Degree (2020-2022)", "Computer Science Bachelor Degree (2017-2020)", "Economic and Science High School Diploma (2013-2016)"],
+    "cv": ["Download my CV CV", "Click on the CV to zoom."],
+    "interests": ["Interests", "Stock Marker", "Code some cool and useful stuff", "Coffee"],
+    "projects": ["Personal and school projects", "Below you can find a list of the projects I have done. Source code are available on my github."]
+  }
+}

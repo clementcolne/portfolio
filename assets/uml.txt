@@ -1,0 +1,35 @@
+@startuml
+file index.php {
+}
+
+database "models" {
+    class HomePageManager {
+        string[] getContent($language)
+        string getButton()
+    }
+    class ProjectManager {
+        string[] getContent($language)
+    }
+}
+
+package "controller" {
+    class controller {
+        void homePageView()
+        void projectView()
+    }
+}
+
+package "assets" {
+    folder "bootstrap" {
+    }
+    folder "json" {
+        file "homePage.json" {
+        }
+        file "projects.json" {
+        }
+    }
+}
+
+index.php --* controller : use
+controller --* models : use
+@enduml

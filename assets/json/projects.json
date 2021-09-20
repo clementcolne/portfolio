@@ -1,0 +1,95 @@
+{
+  "fr": {
+    "libreoupas": {
+      "description": "Libreoupas est un site internet développé à la fin de ma première année de licence. Il liste les salles informatique de la faculté, et affiche la disponibilité de celle-ci tout au long de la journée. Libreoupas est utilisé par les étudiants et les enseignants souhaitant travailler dans les salles informatiques sur leur temps libre.",
+      "reason": "Libreoupas a été créé car les étudiants étaient dans l'incapacité de savoir facilement si une salle informatique était libre en dehors de leurs cours pour y travailler.",
+      "info": ["Projet personnel", "+1.3K utilisateurs/mois"],
+      "technologies": [ "Bootstrap", "PHP", "JavaScript", "API"],
+      "path": "libreoupas.png"
+    },
+    "php mvc start package": {
+      "description": "Ce projet est un template d'architecture MVC en PHP. Il a été créé pour démarrer rapidement des projets en partant d'une architecture MVC.</br>Télécharger le projet depuis mon github <a href='https://github.com/clementcolne/php-mvc-start-package' target='_blank'>ici</a>.",
+      "reason": "Ce projet a été créé pour ne pas avoir à recréer l'architecture MVC PHP pour tous les projets que je crée. Il contient les packages de base de l'architecture MVC PHP : le rooter index.php, les vues, les controllers et le modèle.",
+      "info": ["Projet personnel"],
+      "technologies": ["PHP", "MVC Architecture"],
+      "path": "php-mvc.png",
+      "class_diagram": "php-mvc-uml.png"
+    },
+    "twisk": {
+      "description": "Twisk est un logiciel de simulation à événements discrets permettant de recréer des situations de la vie courante, comme des files d'attente d'un supermarché, afin de les optimiser.",
+      "reason": "Ce projet scolaire est une synthèse des connaissances acquises au cours de ma formation, interface graphique, conception et développement logiciel en Java, tests et mise en production de projet.",
+      "info": ["Projet scolaire"],
+      "technologies": [ "Java", "JavaFX", "C", "Threadh"],
+      "path": "twisk.png"
+    },
+    "facturator": {
+      "description": "Facurator est un logiciel de création de factures et devis spécialisé pour les auto entreprises. Une fois connecté au compte utilisateur, il est possible d'éditer une facture ou un devis en remplissant les informations, puis une fois fait, le logiciel génère un PDF selon les informations fournies. Ce project respecte l'architecture MVC et à été développé from scratch, mais n'est pas aujourd'hui terminé.",
+      "reason": "J'ai créé ce projet au début de mon activité d'auto entrepreneur. Je cherchais un projet à développer, et j'ai donc souhaité avoir la maitrise sur la création, la modification et le stockage de mes devis et factures, tout en respectant les informations légales imposées par la loi.",
+      "info": ["Projet personnel", "Utilisé par des professionnels", "En cours de développement"],
+      "technologies": [ "PHP", "JavaScript", "MVC Architecture", "PDF library", "Bootstrap"],
+      "path": "facturator.png",
+      "class_diagram": "facturator_diagramme_classes.png"
+    },
+    "superpixeladventure": {
+      "description": "SuperPixelAdventure est un jeu vidéo 2D. Vous incarnez Lien, jeune homme qui arrive dans un petit village où l'eau a mystérieusement disparu. Il faudra résoudre l'énigme et, au terme de celle-ci, vous aurez donc l'occasion de ramener l'eau aux habitants de ce village..",
+      "reason": "Ce projet scolaire est une synthèse des connaissances acquises au cours de ma formation, interface graphique, conception et développement logiciel en Java, tests et mise en production de projet.",
+      "info": ["Projet scolaire"],
+      "technologies": [ "C", "Librairie SDL", "Game Design"],
+      "path": "superpixeladventure.png"
+    },
+    "arezzo": {
+      "description": "Arezzo est un logiciel de composition musicale, avec la possibilité de créer des mélodies via un clavier de piano, que l'on peut jouer avec un son de piano, de trompette, de saxophone ou encore de guitare.",
+      "reason": "Ce projet scolaire est une synthèse des connaissances acquises au cours de ma formation, interface graphique, conception et développement logiciel en Java, tests et mise en production de projet.",
+      "info": ["Projet scolaire"],
+      "technologies": [ "Java", "JavaFX"],
+      "path": "arezzo.png"
+    }
+  },
+  "en": {
+    "libreoupas": {
+      "description": "Libreoupas est un site internet développé à la fin de ma première année de licence. Il liste les salles informatique de la faculté, et affiche la disponibilité de celle-ci tout au long de la journée. Libreoupas est utilisé par les étudiants et les enseignants souhaitant travailler dans les salles informatiques sur leur temps libre.",
+      "reason": "Libreoupas a été créé car les étudiants étaient dans l'incapacité de savoir facilement si une salle informatique était libre en dehors de leurs cours pour y travailler.",
+      "info": ["Personal project", "+1.3k users/month"],
+      "technologies": [ "Bootstrap", "PHP", "JavaScript", "API"],
+      "path": "libreoupas.png"
+    },
+    "php mvc start package": {
+      "description": "Ce projet est un template d'architecture MVC en PHP. Il a été créé pour démarrer rapidement des projets en partant d'une architecture MVC.</br>Télécharger le projet depuis mon github <a href='https://github.com/clementcolne/php-mvc-start-package' target='_blank'>ici</a>.",
+      "reason": "Ce projet a été créé pour ne pas avoir à recréer l'architecture MVC PHP pour tous les projets que je crée. Il contient les packages de base de l'architecture MVC PHP : le rooter index.php, les vues, les controllers et le modèle.",
+      "info": ["Projet personnel"],
+      "technologies": ["PHP", "MVC Architecture"],
+      "path": "php-mvc.png"
+    },
+    "twisk": {
+      "description": "Twisk est un logiciel de simulation à événements discrets permettant de recréer des situations de la vie courante, comme des files d'attente d'un supermarché, afin de les optimiser.",
+      "reason": "Ce projet scolaire est une synthèse des connaissances acquises au cours de ma formation, interface graphique, conception et développement logiciel en Java, tests et mise en production de projet.",
+      "info": ["School project"],
+      "technologies": [ "Java", "JavaFX", "C", "Threadh"],
+      "path": "twisk.png"
+    },
+    "facturator": {
+      "description": "Twisk est un logiciel de simulation à événements discrets permettant de recréer des situations de la vie courante, comme des files d'attente d'un supermarché, afin de les optimiser.",
+      "reason": "Ce projet scolaire est une synthèse des connaissances acquises au cours de ma formation, interface graphique, conception et développement logiciel en Java, tests et mise en production de projet.",
+      "info": ["Personal project", "Used by companies", "Under development"],
+      "technologies": [ "Java", "JavaFX", "C", "Threadh"],
+      "path": "facturator.png",
+      "class_diagram": "facturator_diagramme_classes.png"
+    },
+    "superpixeladventure": {
+      "description": "SuperPixelAdventure est un jeu vidéo 2D. Vous incarnez Lien, jeune homme qui arrive dans un petit village où l'eau a mystérieusement disparu. Il faudra résoudre l'énigme et, au terme de celle-ci, vous aurez donc l'occasion de ramener l'eau aux habitants de ce village..",
+      "reason": "Ce projet scolaire est une synthèse des connaissances acquises au cours de ma formation, interface graphique, conception et développement logiciel en Java, tests et mise en production de projet.",
+      "info": ["School project"],
+      "technologies": [ "C", "SDL Library", "GameDesign"],
+      "path": "superpixeladventure.png",
+      "class_diagram": "facturator_diagramme_classes.png"
+    },
+    "arezzo": {
+      "description": "Arezzo est un logiciel de composition musicale, avec la possibilité de créer des mélodies via un clavier de piano, que l'on peut jouer avec un son de piano, de trompette, de saxophone ou encore de guitare.",
+      "reason": "Ce projet scolaire est une synthèse des connaissances acquises au cours de ma formation, interface graphique, conception et développement logiciel en Java, tests et mise en production de projet.",
+      "info": ["School project"],
+      "technologies": [ "Java", "JavaFX"],
+      "path": "arezzo.png",
+      "class_diagram": "facturator_diagramme_classes.png"
+    }
+  }
+}

@@ -1,0 +1,257 @@
+body {
+  /*background-color: #eaecef;*/
+  /*background-color: #222222;*/
+  background-color: #4F4F4F;
+  font-family: "Whyte Inktrap 2";
+  color: #222222;
+}
+
+.badge-margin {
+  margin-right: 7px;
+}
+
+footer {
+  color: white;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: white;
+}
+
+.fond-blanc {
+  background-color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.description {
+  color: #989898;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+nav li {
+  margin-bottom: 0;
+}
+
+h1 {
+  font-family: "Whyte Inktrap 8";
+}
+
+h2 {
+  font-family: "Whyte Inktrap Book";
+}
+
+.skill_header {
+  font-weight: bolder;
+  padding-bottom: 0.5rem;
+}
+.skill_details {
+  padding-bottom: 0;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap Super';
+    src: url('../font/WhyteInktrap-Super.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Super.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap';
+    src: url('../font/WhyteInktrap-Black.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 2';
+    src: url('../font/WhyteInktrap-ExtraLight.woff2') format('woff2'),
+        url('../font/WhyteInktrap-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 3';
+    src: url('../font/WhyteInktrap-BoldItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 4';
+    src: url('../font/WhyteInktrap-Thin.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 5';
+    src: url('../font/WhyteInktrap-ThinItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap Book';
+    src: url('../font/WhyteInktrap-Book.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 6';
+    src: url('../font/WhyteInktrap-HeavyItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap Super';
+    src: url('../font/WhyteInktrap-SuperItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-SuperItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 7';
+    src: url('../font/WhyteInktrap-Italic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 8';
+    src: url('../font/WhyteInktrap-Medium.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap Super';
+    src: url('../font/WhyteInktrap-Super.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Super.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 9';
+    src: url('../font/WhyteInktrap-Regular.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 10';
+    src: url('../font/WhyteInktrap-MediumItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 11';
+    src: url('../font/WhyteInktrap-Light.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 12';
+    src: url('../font/WhyteInktrap-LightItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 13';
+    src: url('../font/WhyteInktrap-Thin.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 14';
+    src: url('../font/WhyteInktrap-Heavy.woff2') format('woff2'),
+        url('../font/WhyteInktrap-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 15';
+    src: url('../font/WhyteInktrap-ExtraLightItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap Super';
+    src: url('../font/WhyteInktrap-SuperItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-SuperItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap Book';
+    src: url('../font/WhyteInktrap-BookItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Whyte Inktrap 16';
+    src: url('../font/WhyteInktrap-BlackItalic.woff2') format('woff2'),
+        url('../font/WhyteInktrap-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
