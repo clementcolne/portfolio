@@ -22,7 +22,7 @@
 
           <div class="offset-lg-4 col-lg-4 center">
             <h1>Clément Colné</h1>
-            <p class="lead description">Etudiant en Master Logiciel</p>
+            <p class="lead description">Etudiant en Master 2 Ingénierie des Logiciels | Software Engineering student</p>
           </div>
         </div>
       </div>
@@ -143,6 +143,10 @@
                   <p class="skill_details">Depuis 2020<br>Création de site Internet pour professionnel.<p>
                 </li>
                 <li>
+                  <h4 class="skill_header">Chauffeur Livreur | Fiducial, Nancy</h4>
+                  <p class="skill_details">Juillet 2021 - Août 2021<br>Préparation de la tournée, chargement de colis dans le camion, conduite de Nancy à Metz et livraison de matériel de bureau à des professionnels sur Metz et alentours.<p>
+                </li>
+                <li>
                   <h4 class="skill_header">Stagiaire en développement logiciel | PMB Software, Maxéville</h4>
                   <p class="skill_details">Avril 2020 - Mai 2020<br>Stage de fin de licence dans l'entreprise PMB Software, confection d'un cahier des charges, spécification des besoins, modélisation de la base de données.<p>
                 </li>
@@ -156,11 +160,7 @@
                 </li>
                 <li>
                   <h4 class="skill_header">Superviseur | Fraispertuis-City, Jeanménil</h4>
-                  <p class="skill_details">Saisonnier de 2015 à 2017<br>Responsable de la sécurité dans le parc, répondre aux attentes du client et du personnel, encadrement du personnel et diverses tâches quotidiennes.<p>
-                </li>
-                <li>
-                  <h4 class="skill_header">Employé Polyvalent | CCD Energie, Jeanménil</h4>
-                  <p class="skill_details">2015 - 2016<br>Chargement de camions, service de clients, nettoyage et entretien du dépôt pétrolier et diverses tâches quotidiennes.<p>
+                  <p class="skill_details">Saisonnier de 2016 à 2017<br>Responsable de la sécurité dans le parc, répondre aux attentes du client et du personnel, encadrement du personnel et diverses tâches quotidiennes.<p>
                 </li>
               </ul>
             </div>
@@ -183,6 +183,7 @@
           <div class="card-body mt-4 center">
             <h2>Projets personnels, freelance et scolaires</h2>
             <p>Voici un échantillon des projets que j'ai développé, durant mes études, en freelance ou sur mon temps libre.<br>Les codes sources sont disponibles sur mon Github.</p>
+            <p><a href="https://github.com/clementcolne" target="_blank">Accéder à mon Github -></a></p>
             <hr class="offset-lg-4 col-lg-4 offset-sm-3 col-sm-6 offset-3 col-6">
           </div>
 

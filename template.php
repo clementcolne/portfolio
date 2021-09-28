@@ -71,9 +71,9 @@
    </body>
    <!-- Footer section -->
    <footer>
-     <div class="footer-copyright text-center py-3">2020 © créé par
+     <div class="footer-copyright text-center py-3">2021 © created by
        <a href="./"> clementcolne.com</a>
-       avec
+       with
        <a href="https://getbootstrap.com" target="_blank">Bootstrap</a>
        .
      </div>
