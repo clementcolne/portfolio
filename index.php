@@ -22,7 +22,7 @@
 
           <div class="offset-lg-4 col-lg-4 center">
             <h1>Clément Colné</h1>
-            <p class="lead description">Etudiant en Master 2 Ingénierie des Logiciels | Software Engineering student</p>
+            <p class="lead description">Etudiant en Master 2 Ingénierie des Logiciels</p>
           </div>
         </div>
       </div>
