@@ -54,7 +54,7 @@
                 <li>
                   <p class="card-text">
                     <i class="fab fa-php"></i>
-                    PHP
+                    PHP (Laravel)
                   </p>
                 </li>
                 <li>
