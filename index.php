@@ -207,7 +207,7 @@
                       <div class="accordion-body">
                         Depuis début 2020, j'effectue des projets Freelance, principalement de la création de site vitrine pour professionnels.<br>
                         Voici certains des sites que j'ai réalisé<br>
-                        <a href="https://mybobyhat.fr" target="_blank">My Boby Hat</a> : entreprise de création de bob et chapeaux.
+                        My Boby Hat : entreprise de création de bob et chapeaux.
                         <br>
                         <a href="https://lerefugedegrimlock.fr" target="_blank">Le Refuge De Grimlock</a> : projet caritatif pour un refuge animalier.
                         <br>
