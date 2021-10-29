@@ -18,8 +18,8 @@
           </div>
           <hr class="offset-lg-3 col-lg-6 offset-sm-3 col-sm-6 offset-3 col-6 mt-5">
         </div>
-        <div class="row mt-5">
 
+        <div class="row mt-5">
           <div class="offset-lg-4 col-lg-4 center">
             <h1>Clément Colné</h1>
             <p class="lead description">Etudiant en Master 2 Ingénierie des Logiciels</p>
@@ -34,6 +34,7 @@
         <div class="card-body">
           <h2 class="center">A propos de moi</h2>
           <hr class="offset-lg-4 col-lg-4 offset-sm-3 col-sm-6 offset-3 col-6">
+          <div class="container-fluid">
           <div class="row">
 
 
@@ -166,11 +167,13 @@
 
           </div>
         </div>
+        </div>
       </div>
   </div>
 
 
 
+  <div class="container-fluid">
   <div class="row">
 
     <!-- Second column -->
@@ -406,6 +409,7 @@
     <!-- Second section end -->
 
   </div>
+</div>
 
 
 <?php $content = ob_get_clean(); ?>
